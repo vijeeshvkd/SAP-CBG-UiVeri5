@@ -94,6 +94,6 @@ describe('test', () => {
     //             text : "CRC 22062020" 
     //         }] 
     //     }));
-    //     link.click().then(wait.long)
+    //     link.click().then(wait.long) 
     // }) 
 })
